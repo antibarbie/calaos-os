@@ -2,6 +2,6 @@ bitbake,git://github.com/openembedded/bitbake.git,1.24,2ac33aac3446cb12227f1b8da
 meta-openembedded,git://git.openembedded.org/meta-openembedded,dizzy,9efaed99125b1c4324663d9a1b2d3319c74e7278
 oe-core,git://github.com/openembedded/oe-core.git,dizzy,4fc3553cfecb42c124b7cfff8e0d20ade14a3ffc
 meta-sunxi,https://github.com/linux-sunxi/meta-sunxi,dizzy,0ed1eadb956158471748878a8df4bfcf979184f5
-meta-intel,git://git.yoctoproject.org/meta-intel,master,HEAD
-meta-raspberrypi,git://git.yoctoproject.org/meta-raspberrypi,master,HEAD
+meta-intel,git://git.yoctoproject.org/meta-intel,dizzy,HEAD
+meta-raspberrypi,git://git.yoctoproject.org/meta-raspberrypi,dizzy,HEAD
 meta-calaos,https://github.com/calaos/meta-calaos.git,dizzy,HEAD
