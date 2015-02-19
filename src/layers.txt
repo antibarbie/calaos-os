@@ -4,4 +4,6 @@ oe-core,git://github.com/openembedded/oe-core.git,dizzy,HEAD
 meta-sunxi,https://github.com/linux-sunxi/meta-sunxi,dizzy,HEAD
 meta-intel,git://git.yoctoproject.org/meta-intel,dizzy,HEAD
 meta-raspberrypi,git://git.yoctoproject.org/meta-raspberrypi,dizzy,HEAD
+meta-fsl-arm,https://github.com/Freescale/meta-fsl-arm,dizzy,HEAD
+meta-fsl-arm-extra,https://github.com/Freescale/meta-fsl-arm-extra,dizzy,HEAD
 meta-calaos,https://github.com/calaos/meta-calaos.git,dizzy,HEAD
